@@ -45,3 +45,104 @@ Text Domain:  accelerate-theme-child
 	text-transform: uppercase;
 	font-weight: 700;
 }
+
+/* Case Studies */
+
+aside.case-study-sidebar {
+	float: left;
+	width: 360px;
+}
+
+div.case-study-images {
+	float: left;
+	width: 600px;
+	padding: 0 0 0 100px;
+}
+
+.case-study h2 {
+	margin-bottom: 0;
+}
+
+.case-study h5 {
+	font-weight: lighter;
+	text-transform: none;
+	color: grey;
+	margin: .5em 0;
+}
+
+.case-study h6 {
+	font-weight: lighter;
+	margin: .5em 0;
+}
+
+.case-study p {
+	padding-right: 50px;
+}
+
+.case-study a {
+	font-family: 'Montserrat';
+	color: #4AAC9D;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.case-study img {
+	padding-bottom: 30px;
+}
+
+/* Featured Work Section (Homepage) */
+
+.individual-featured-work {
+	float: right;
+	padding-right: 20px;
+}
+
+.individual-featured-work h3 {
+	text-align: center;
+	color: grey;
+	margin-top: 10px;
+}
+
+.featured-work ul {
+	list-style-type: none;
+	float: left;
+	margin-left: 0;
+}
+
+.featured-work h4 {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+/* Case Study Archive */
+
+.case-study h2 a {
+	color: black;
+	font-weight: lighter;
+	text-transform: none;
+}
+
+div.case-study-images img {
+	width: 100%;
+	height: auto;
+}
+
+/* Social Media Nav */
+
+.social-media-menu {
+	list-style-type: none;
+}
+
+.social-media-navigation {
+	padding-left: 90px;
+}
+
+.social-media-navigation i {
+	background-color: #393A3C;
+	color: white;
+	float: left;
+	padding: 4px;
+	border-radius: 50%;
+	margin-left: 6px;
+}
+
