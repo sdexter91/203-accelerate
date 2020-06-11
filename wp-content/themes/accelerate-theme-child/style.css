@@ -134,15 +134,28 @@ div.case-study-images img {
 }
 
 .social-media-navigation {
-	padding-left: 90px;
+	padding-left: 70px;
+}
+
+.social-media-navigation li {
+	background-color: #393A3C;
+	border-radius: 50%;
+	height: 25px;
+	width: 25px;
+	text-align: center;
+	padding-top: 2px;
+	float: left;
+	margin-left: 8px;
 }
 
 .social-media-navigation i {
-	background-color: #393A3C;
 	color: white;
-	float: left;
-	padding: 4px;
-	border-radius: 50%;
-	margin-left: 6px;
 }
+
+.social-media-navigation ul {
+	overflow: auto
+}
+
+
+
 
