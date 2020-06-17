@@ -290,3 +290,28 @@ div.case-study-images img {
 	margin-right: 50px;
 	margin-left: 175px;
 }
+
+/* 404 Page */
+.image-container {
+	height: 300px;
+	width: 300px;
+	background: url("img/map.jpg") no-repeat scroll right center / cover rgba(0, 0, 0, 0);
+	float: left;
+	margin-left: 75px;
+}
+
+.not-found-text {
+	float: left;
+	width: 50%;
+	padding-left: 50px;
+}
+
+.not-found-text h1 {
+	color: #4AAC9D;
+	font-family: 'Roboto Mono', monospace;
+}
+
+.not-found-text a {
+	color: #4AAC9D;
+	font-weight: bold;
+}
