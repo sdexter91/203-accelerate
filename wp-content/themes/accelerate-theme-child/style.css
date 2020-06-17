@@ -156,6 +156,137 @@ div.case-study-images img {
 	overflow: auto
 }
 
+/* Contact Form */
+.page-id-47363 .site-content {
+	width: 50%;
+}
+
+.page-id-47363 h2 {
+	margin-bottom: 5px;
+}
+
+.page-id-47363 p {
+	font-weight: 300;
+	padding: 0 0 20px 0;
+	margin-top: 0;
+}
+
+.page-id-47363 .nf-form-content label {
+	font-weight: 500;
+}
+
+#nf-field-3, #nf-field-1, #nf-field-2 {
+	background: white;
+    border: 2px solid #c4c4c487;
+}
+
+.page-id-47363 #nf-field-1-container {
+	display: inline;
+	float: left;
+}
+
+.page-id-47363 #nf-field-2-container {
+	display: inline;
+	float: left;
+}
 
 
+.page-id-47363 #nf-field-4-container {
+	float: right;
+}
 
+.page-id-47363 #nf-field-4 {
+	background: #4AAC9D;
+	width: 200px;
+}
+
+/* About Page */
+
+.page-id-47387 .site-content {
+   width: 100%;
+   max-width: 100%;
+}
+
+.page-id-47387 .main-content {
+	padding-top: 0;
+}
+
+.page-id-47387 .main-content p {
+	margin: 0;
+}
+
+.page-id-47387 h1 {
+	display: none;
+}
+
+.page-id-47387 #primary.site-content.sidebar {
+	margin: 0;
+}
+
+.hero-text {
+	color: white;
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: 600;
+	background: url("img/taxi-photo.jpg") no-repeat scroll right center / cover rgba(0, 0, 0, 0);
+	padding: 80px 400px 100px 400px;
+	margin: 0;
+}
+
+
+.page-id-47387 h2.title {
+	text-align: center;
+	text-transform: uppercase;
+	padding-top: 30px;
+}
+
+.services {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	padding: 0 250px 50px 250px;
+}
+
+.service-1, .service-2, .service-3, .service-4 {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 10px 0;
+}
+
+.page-id-47387 img {
+	height: 200px;
+	width: 200px;
+	margin-top: 60px;
+}
+
+.text-1, .text-3 {
+	width: 80%;
+	padding-left: 100px;
+}
+
+.text-2, .text-4 {
+	width: 80%;
+	padding-right: 100px;
+}
+
+.page-id-47387 .button-footer {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	border-top: 1px solid #bfbfbf;
+	width: 90%;
+   	max-width: 960px;
+   	margin: 0 auto;
+}
+
+.page-id-47387 .button {
+	color: white;
+	margin-top: 35px;
+}
+
+.page-id-47387 h3 {
+	padding-top: 10px;
+	margin-right: 50px;
+	margin-left: 175px;
+}
