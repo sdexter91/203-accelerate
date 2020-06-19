@@ -315,3 +315,64 @@ div.case-study-images img {
 	color: #4AAC9D;
 	font-weight: bold;
 }
+
+/* Sidebar 2 */
+
+.twitter-feed {
+	width: 50%;
+	float: left;
+	padding: 0 250px 0 100px;
+}
+
+#secondary ul {
+	list-style: none;
+	margin: 0;
+}
+
+.twitter-feed .follow-us-link {
+	font-family: 'Montserrat';
+	color: #4AAC9D;
+	text-transform: uppercase;
+	font-weight: 700;
+}	
+
+.twitter-feed h4 {
+	font: 700 1em/1.75 'Montserrat', 'Open Sans', Arial, sans-serif;
+	color: #a6a6a6;
+	text-transform: uppercase;
+	margin: 2em 0 .5em;
+}
+
+.twitter-feed .widget-title {
+	font-size: 1.5em;
+}
+
+.twitter-feed p {
+	color: #3b3b3b;
+    font: 17px/1.65 'Open Sans', Arial, sans-serif;
+    margin: 1em auto;
+}
+
+/* Newsletter Widget */
+
+.mc4wp-form-fields .title {
+	font: 700 1em 'Open Sans', Arial, sans-serif;
+    color: #3b3b3b;
+}
+
+input[type="submit"]  {
+	background: #45ac9d;
+	padding-bottom: 2em;
+}
+
+input {
+	font: .875em/1.75em 'Open Sans', Arial, sans-serif;
+    font-style: italic;
+    padding-right: 35px;
+}
+
+/* Social Sharing Buttons */
+
+.ss-envelope-color {
+	background: #4AAC9D;
+}

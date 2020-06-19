@@ -61,4 +61,14 @@ get_header(); ?>
 		</div>
 	</section>
 
+	<div class="twitter-feed">
+		<h4>Recent Tweet</h4>
+		<?php if ( is_active_sidebar( 'sidebar-2' ) ) : ?>
+		<div id="secondary" class="widget-area" role="complementary">
+			<?php dynamic_sidebar( 'sidebar-2' ); ?>
+		</div>
+		<?php endif; ?>
+		<p><a href="https://twitter.com/samrdexter" class="follow-us-link">Follow Us ›</a></p>
+	</div>
+
 <?php get_footer(); ?>
